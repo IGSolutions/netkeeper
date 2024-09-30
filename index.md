@@ -29,25 +29,27 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 >
 > Vielleicht ist die App auch was für euch.
 
+## Sicherheit
+> Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
+> Bitte prüfe die Datenschutzbestimmungen
 
 ### Wie nutzt man NetKeeper?
 
-- IP-Netzwerk erstellen
+- IP-Netzwerk Informationen eintragen u.a.
   - IP-Adresse eintragen
   - WLAN Name und Kennwort (für QR-Code) eintragen
   - Zugriffsklasse (z.B. Gäste) auswählen
-  - Zusätzliche Infos eintragen
-    - Verschlüsselt?
-    - MAC Adress Filter?
-    - Versteckt?
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Gerät dem Netzwerk zuordnen u.a.
+  - Besitzer eintragen
+  - Gerätetyp und Hostnamen eintragen
+  - Gerätebeschreibung eintragen
+  - IP- und MAC-Adresse
+  - Speichern und Fertig
+- Oder den LAN-Scanner nutzen
+  - WLAN scannen
+  - gefundene Geräte übernehmen
+  - Benötigte Infos eintragen
+  - Speichern und Fertig
 
 ### Small image
 
