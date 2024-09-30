@@ -22,6 +22,8 @@ NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Doku
 > 
 > IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
 > Also Excel-Datei öffnen und mal reinschauen wer es ist.
+>
+> Das war mir zu umständlich. Also habe ich NetKeeper programmiert. Jetzt ist es einfacher. 
 
 ### Header 3
 
