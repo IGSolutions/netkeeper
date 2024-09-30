@@ -32,10 +32,11 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 ## IT-Sicherheit
 > Und, wobei hat es mir geholfen?
 > 
-> Ich konnte einige Ex-Freunde finden, die immern noch auf mein Gäste-WLAN zugreifen.
+> Ich konnte einige Ex-Freunde finden, die immer noch auf mein Gäste-WLAN zugreifen.
 > Rausgeschmissen, und tschüss ...
-> Alte Geräte, die schon lange nicht mehr existieren, aus den Router rausschmeißen.
-> 
+>
+> Vertrauen ist gut ..., aber wenn ein Freund mal seinem Freund dein WLAN-Kennwort weitergibt?
+
 
 ## Datenschutz
 > Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
