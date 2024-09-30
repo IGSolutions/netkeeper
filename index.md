@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # NetKeeper
 
-NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von deinen privaten Netzwerken und Geräten zu helfen.
+NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von Netzwerken und Geräten zu helfen.
 
-...
+Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die z.B. auf das WLAN des Heimnetzwerkes zugreifen. Und es gibt mittlerweile viele Geräte in Heimnetzen.
 
 ## Warum NetKeeper?
 
