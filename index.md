@@ -40,6 +40,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 
 ## Datenschutz
 > Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
+> 
 > Siehe die Datenschutzbestimmungen
 
 ### Wie nutzt man NetKeeper?
