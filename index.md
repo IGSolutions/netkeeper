@@ -14,12 +14,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von Netzwerken und Geräten zu helfen.
 
-## Auch in Heimnetzwerken ist IT-Sicherheit wichtig!
+## Warum NetKeeper?
 
 > Darf er das?
 > 
 > Diese Frage stellte ich mir jedesmal wenn mir mein Router Informationen über ein zugreifendes Gerät geschickt hat.
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
+> IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
+> Also Excel-Datei öffnen und mal reinschauen wer es ist.
 
 ### Header 3
 
