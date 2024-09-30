@@ -29,22 +29,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 >
 > Vielleicht ist die App auch was für euch.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
