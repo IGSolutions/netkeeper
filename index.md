@@ -25,7 +25,9 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 > IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
 > Also Excel-Datei öffnen und mal reinschauen wer es ist.
 >
-> Das war mir zu umständlich. Also habe ich NetKeeper programmiert. Jetzt ist es einfacher. 
+> Das war mir zu umständlich. Also habe ich NetKeeper programmiert. Jetzt ist es einfacher.
+>
+> Vielleicht ist die App auch was für euch.
 
 ### Header 3
 
