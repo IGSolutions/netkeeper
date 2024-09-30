@@ -10,15 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Warum NetKeeper?
+# NetKeeper
 
-NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von Netzwerken und Geräten zu helfen.
+NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von deinen privaten Netzwerken und Geräten zu helfen.
+
+...
 
 ## Warum NetKeeper?
 
 > Darf er das?
 > 
-> Diese Frage stellte ich mir jedesmal wenn mir mein Router Informationen über ein zugreifendes Gerät geschickt hat.
+> Diese Frage stellte ich mir jedesmal wenn mein Router mir Informationen über ein zugreifendes Gerät geschickt hat.
 > 
 > IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
 > Also Excel-Datei öffnen und mal reinschauen wer es ist.
