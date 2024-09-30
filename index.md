@@ -12,7 +12,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 
 > Wer greift gerade auf mein WLAN zu?
 > 
-> Diese Frage stellte ich mir jedesmal wenn ein Gerät auf Gäste-WLAN zugreift und mein Router mich darüber informiert hat.
+> Diese Frage stellte ich mir jedesmal wenn ein Gerät auf mein Gäste-WLAN zugegriffen hat und der Router mich darüber informierte.
 > 
 > IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
 > Also Excel-Datei öffnen und mal reinschauen wer es ist.
