@@ -10,9 +10,9 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 
 ## Warum NetKeeper?
 
-> Darf er das?
+> Wer greift gerade auf mein WLAN zu?
 > 
-> Diese Frage stellte ich mir jedesmal wenn mein Router mir Informationen über ein zugreifendes Gerät geschickt hat.
+> Diese Frage stellte ich mir jedesmal wenn ein Gerät auf Gäste-WLAN zugreift und mein Router mich darüber informiert hat.
 > 
 > IP-Adresse und MAC-Adresse, na toll. Keine Ahnung wer gerade zugreift.
 > Also Excel-Datei öffnen und mal reinschauen wer es ist.
