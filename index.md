@@ -14,10 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von Netzwerken und Geräten zu helfen.
 
-## Header 2
+## Auch in Heimnetzwerken ist IT-Sicherheit wichtig!
 
-> This is a blockquote following a header.
->
+> Darf er das?
+> Diese Frage stellte ich mir jedesmal wenn mir mein Router Informationen über ein zugreifendes Gerät geschickt hat.
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
