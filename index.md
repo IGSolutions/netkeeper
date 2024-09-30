@@ -29,6 +29,14 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 >
 > Vielleicht ist die App auch was für euch.
 
+## IT-Sicherheit
+> Und, wobei hat es mir geholfen?
+> 
+> Ich konnte einige Ex-Freunde finden, die immern noch auf mein Gäste-WLAN zugreifen.
+> Rausgeschmissen, und tschüss ...
+> Alte Geräte, die schon lange nicht mehr existieren, aus den Router rausschmeißen.
+> 
+
 ## Datenschutz
 > Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
 > Siehe die Datenschutzbestimmungen
