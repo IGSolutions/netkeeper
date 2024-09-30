@@ -31,7 +31,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 
 ## Datenschutz
 > Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
-> Bitte prüfe die Datenschutzbestimmungen
+> Siehe die Datenschutzbestimmungen
 
 ### Wie nutzt man NetKeeper?
 
@@ -44,12 +44,10 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
   - Gerätetyp und Hostnamen eintragen
   - Gerätebeschreibung eintragen
   - IP- und MAC-Adresse
-  - Speichern und Fertig
 - Oder den LAN-Scanner nutzen
   - WLAN scannen
   - gefundene Geräte übernehmen
   - Benötigte Infos eintragen
-  - Speichern und Fertig
 - Bei Bedarf Export/Import als csv-Datei auf dein iPhone
 
 ### Small image
