@@ -12,8 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Warum NetKeeper?
 
-> Hey, wer hat sich gerade mit meinem WLAN verbunden? Darf er das?
-> Diese Fragen stellte ich mir jedesmal, wenn meine Router mir eine E-Mail mit IP- und MAC-Addresse des zugreifenden Gerätes geschickt hat.
+NetKeeper wurde entwickelt, um dir mit Hilfe eines Netzwerk-Scanner bei der Dokumentation von Netzwerken und Geräten zu helfen.
 
 ## Header 2
 
