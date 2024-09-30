@@ -29,7 +29,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
 >
 > Vielleicht ist die App auch was für euch.
 
-## Sicherheit
+## Datenschutz
 > Alle Informationen bleiben auf deinem iPhone. Nichts wird gesammelt.
 > Bitte prüfe die Datenschutzbestimmungen
 
@@ -50,6 +50,7 @@ Die App ist für Alle, die den Überblick über die Geräte behalten wollen, die
   - gefundene Geräte übernehmen
   - Benötigte Infos eintragen
   - Speichern und Fertig
+- Bei Bedarf Export/Import als csv-Datei auf dein iPhone
 
 ### Small image
 
