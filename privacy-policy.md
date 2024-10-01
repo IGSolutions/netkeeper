@@ -5,7 +5,7 @@
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 - Ingo Gidaszewski
-- E-Mail: netkeeper@icloud.com
+- E-Mail: netkeeper.info@icloud.com
 - Telefon: +49 (0)160 98425136
 
 ## Allgemeine Informationen zur Datenverarbeitung
