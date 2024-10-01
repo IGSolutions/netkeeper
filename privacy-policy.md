@@ -1,4 +1,4 @@
-# Datenschutzerklärung für die iOS-App Netkeeper
+# Datenschutzerklärung
 
 ## 1. Verantwortlicher
 
