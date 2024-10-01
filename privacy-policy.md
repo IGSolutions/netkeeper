@@ -8,18 +8,18 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 - E-Mail: netkeeper@icloud.com
 - Telefon: +49 (0)160 98425136
 
-## 2. Allgemeine Informationen zur Datenverarbeitung
+## Allgemeine Informationen zur Datenverarbeitung
 
 Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre personenbezogenen Daten gemäß den Bestimmungen der DSGVO sowie anderer datenschutzrechtlicher Bestimmungen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
 
 
-## 3. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
+## Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
 
 Beim Download unserer App über den Apple App Store werden bestimmte Informationen durch Apple an uns übermittelt, wie z. B. Ihr Benutzername, Ihre E-Mail-Adresse und die Kundennummer des App Stores. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
 Weitere Informationen finden Sie in der Datenschutzerklärung von Apple unter https://www.apple.com/de/privacy/privacy-policy/.
 
 
-## 4. Links to Third Party Websites
+## Links zu Websites Dritter
 
 Wir haben in dieser App Links zu Ihrer Nutzung und Bezugnahme aufgenommen. Wir sind nicht für die Datenschutzrichtlinien auf diesen Websites verantwortlich. Sie sollten sich darüber im Klaren sein, dass die Datenschutzrichtlinien dieser Websites von denen von unserer abweichen können.
 
@@ -28,23 +28,22 @@ Wir haben in dieser App Links zu Ihrer Nutzung und Bezugnahme aufgenommen. Wir s
 
 Beim Verwenden unserer iOS-App erheben wir folgende Daten:
 
-#### Geräteinformationen: Wir können technische Informationen über das verwendete Gerät erheben (z. B. Gerätetyp, Betriebssystemversion).
+Geräteinformationen: Wir können technische Informationen über das verwendete Gerät erheben (z. B. Gerätetyp, Betriebssystemversion).
 
 
 ### Bei der Nutzung bestimmter Funktionen der App
 
-⁃ Mit der App können Sie das WLAN mit dem Ihr iPhone verbunden ist, nach aktiven Geräten scannen. Dazu benötigt der Scanner Zugriff auf Ihr Netzwerk. Diesen können Sie jederzeit in den App-Einstellungen genehmigen oder verbieten.
-⁃ Der Scanner ermittelt die Hostnamen und die IP-Adressen der Geräte. Die Ermittlung der MAC-Addressen der Geräte wird durch Apple unterbunden.
+Mit der App können Sie das WLAN mit dem Ihr iPhone verbunden ist, nach aktiven Geräten scannen. Dazu benötigt der Scanner Zugriff auf Ihr Netzwerk. Diesen können Sie jederzeit in den App-Einstellungen genehmigen oder verbieten.
+Der Scanner ermittelt die Hostnamen und die IP-Adressen der Geräte. Die Ermittlung der MAC-Addressen der Geräte wird durch Apple unterbunden.
 
-    ⁃    Darüber hinaus können Sie manuell u.a. folgende Daten hinzufügen, die in der App gespeichert werden:
-    ⁃    IP-Adresse des Netzwerkes
-    ⁃    Namen des WLANs (SSID)
-    ⁃    Kennwort des WLANs
-    ⁃    Namen des Besitzers des Gerätes
-    ⁃    Gerätetyp
-    ⁃    IP-Adresse des Gerätes
-    ⁃    MAC-Adresse des Gerätes
-
+Darüber hinaus können Sie manuell u.a. folgende Daten hinzufügen, die in der App gespeichert werden:
+- IP-Adresse des Netzwerkes
+- Namen des WLANs (SSID)
+- Kennwort des WLANs
+- Namen des Besitzers des Gerätes
+- Gerätetyp
+- IP-Adresse des Gerätes
+- MAC-Adresse des Gerätes
 
 ## Rechtsgrundlage der Datenverarbeitung
 
