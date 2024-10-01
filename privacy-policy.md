@@ -24,7 +24,7 @@ Weitere Informationen finden Sie in der Datenschutzerklärung von Apple unter ht
 Wir haben in dieser App Links zu Ihrer Nutzung und Bezugnahme aufgenommen. Wir sind nicht für die Datenschutzrichtlinien auf diesen Websites verantwortlich. Sie sollten sich darüber im Klaren sein, dass die Datenschutzrichtlinien dieser Websites von denen von unserer abweichen können.
 
 
-### 5. Beim Verwenden der App
+### Beim Verwenden der App
 
 Beim Verwenden unserer iOS-App erheben wir folgende Daten:
 
