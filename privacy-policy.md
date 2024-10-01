@@ -1,4 +1,4 @@
-# Datenschutzerklärung
+# Datenschutzerklärung der iOS App NetKeeper
 
 ## Verantwortlicher
 
