@@ -33,7 +33,7 @@ Geräteinformationen: Wir können technische Informationen über das verwendete 
 
 ### Bei der Nutzung bestimmter Funktionen der App
 
-Mit der App können Sie das WLAN mit dem Ihr iPhone verbunden ist, nach aktiven Geräten scannen. Dazu benötigt der Scanner Zugriff auf Ihr Netzwerk. Diesen können Sie jederzeit in den App-Einstellungen genehmigen oder verbieten.
+Mit der App können Sie das WLAN, mit dem Ihr iPhone verbunden ist, nach aktiven Geräten scannen. Dazu benötigt der Scanner Zugriff auf Ihr Netzwerk. Diesen können Sie jederzeit in den App-Einstellungen genehmigen oder verbieten.
 Der Scanner ermittelt die Hostnamen und die IP-Adressen der Geräte. Die Ermittlung der MAC-Addressen der Geräte wird durch Apple unterbunden.
 
 Darüber hinaus können Sie manuell u.a. folgende Daten hinzufügen, die in der App gespeichert werden:
