@@ -4,7 +4,7 @@ Angaben gemäß § 5TMG:
 ## Dienstanbieter
 
 - Ingo Gidaszewski
-- Postfach
+- Weyerhof 4
 - 46519 Alpen
 
 ## Kontaktmöglichkeiten
