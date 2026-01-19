@@ -1,4 +1,4 @@
-# Datenschutzerklärung der iOS App NetKeeper Pro
+# Datenschutzerklärung der iOS App NetKeeper
 
 ## Verantwortlicher
 
@@ -15,7 +15,7 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre
 
 ## Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
 
-Beim Download unserer App über den Apple App Store werden bestimmte anonymisierte Daten durch Apple an uns übermittelt, wie z. B. Land/Region oder Gerätetyp. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
+Beim Download unserer App über den Apple App Store werden bestimmte Informationen durch Apple an uns übermittelt, wie z. B. Ihr Benutzername, Ihre E-Mail-Adresse und die Kundennummer des App Stores. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
 Weitere Informationen finden Sie in der Datenschutzerklärung von Apple unter https://www.apple.com/de/privacy/privacy-policy/.
 
 
@@ -29,6 +29,21 @@ Wir haben in dieser App Links zu Ihrer Nutzung und Bezugnahme aufgenommen. Wir s
 Beim Verwenden unserer iOS-App erheben wir folgende Daten:
 
 Geräteinformationen: Wir können technische Informationen über das verwendete Gerät erheben (z. B. Gerätetyp, Betriebssystemversion).
+
+
+### Bei der Nutzung bestimmter Funktionen der App
+
+Mit der App können Sie das WLAN, mit dem Ihr iPhone verbunden ist, nach aktiven Geräten scannen. Dazu benötigt der Scanner Zugriff auf Ihr Netzwerk. Diesen können Sie jederzeit in den App-Einstellungen genehmigen oder verbieten.
+Der Scanner ermittelt die Hostnamen und die IP-Adressen der Geräte. Die Ermittlung der MAC-Addressen der Geräte wird durch Apple unterbunden.
+
+Darüber hinaus können Sie manuell u.a. folgende Daten hinzufügen, die in der App gespeichert werden:
+- IP-Adresse des Netzwerkes
+- Namen des WLANs (SSID)
+- Kennwort des WLANs
+- Namen des Besitzers des Gerätes
+- Gerätetyp
+- IP-Adresse des Gerätes
+- MAC-Adresse des Gerätes
 
 ## Rechtsgrundlage der Datenverarbeitung
 
