@@ -15,7 +15,7 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre
 
 ## Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
 
-Beim Download unserer App über den Apple App Store werden bestimmte Informationen durch Apple an uns übermittelt, wie z. B. Ihr Benutzername, Ihre E-Mail-Adresse und die Kundennummer des App Stores. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
+Beim Download unserer App über den Apple App Store werden bestimmte anonymisierte Daten durch Apple an uns übermittelt, wie z. B. Land/Region oder Gerätetyp. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
 Weitere Informationen finden Sie in der Datenschutzerklärung von Apple unter https://www.apple.com/de/privacy/privacy-policy/.
 
 
