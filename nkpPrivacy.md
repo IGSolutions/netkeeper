@@ -15,7 +15,7 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre
 
 ## Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
 
-Beim Download unserer App über den Apple App Store werden bestimmte anonymisierte Informationen durch Apple an uns übermittelt, wie u.a. Land/Region, Gerätetyp, verwendete Betriebssystemversion. Wir haben jedoch keinen Einfluss auf diese Datenverarbeitung.
+Beim Download unserer App über den Apple App Store werden bestimmte anonymisierte Informationen durch Apple an uns übermittelt, wie u.a. Land/Region, Gerätetyp, verwendete Betriebssystemversion. Wir haben keinen Einfluss auf diese Datenverarbeitung.
 Weitere Informationen finden Sie in der Datenschutzerklärung von Apple unter https://www.apple.com/de/privacy/privacy-policy/.
 
 
@@ -74,4 +74,4 @@ Zur Wahrnehmung dieser Rechte können Sie uns unter den in Abschnitt 1 genannten
 
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie stets den aktuellen rechtlichen Anforderungen oder Änderungen unserer Dienste anzupassen. Die jeweils aktuelle Datenschutzerklärung ist in der App verfügbar.
 
-Diese Datenschutzrichtlinie gilt ab dem 01.10.2024 und bleibt in Kraft, außer im Hinblick auf künftige Änderungen ihrer Bestimmungen, die unmittelbar nach ihrer Veröffentlichung auf dieser Seite in Kraft treten werden.
+Diese Datenschutzrichtlinie gilt ab dem 20.01.2026 und bleibt in Kraft, außer im Hinblick auf künftige Änderungen ihrer Bestimmungen, die unmittelbar nach ihrer Veröffentlichung auf dieser Seite in Kraft treten werden.
