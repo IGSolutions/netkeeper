@@ -1,5 +1,6 @@
-## Supportanfragen
+## Supportanfragen/Support requests
 
-Richte Supportanfragen bitte per E-Mail an mich.
+Bitte senden Sie Supportanfragen per E-Mail.
+Please send support requests by email.
 
 - E-Mail: netkeeper.info@icloud.com
