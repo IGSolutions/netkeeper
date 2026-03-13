@@ -1,6 +1,8 @@
-## Supportanfragen/Support requests
+## Supportanfragen
 
 Bitte senden Sie Supportanfragen per E-Mail.
+
+## Support requests
 
 Please send support requests by email.
 
